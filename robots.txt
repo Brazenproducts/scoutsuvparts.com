@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scoutsuvparts.com/sitemap.xml
